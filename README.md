@@ -32,8 +32,6 @@ Finally add your name and student number at the bottum.<br /><br />
 By doing this you will only lose the mark for the parts you got help for, and the person helping you will be clear of any wrong doing. 
 
 ## Visual Studio
-[How to download and install Visual Studio 2015](https://www.youtube.com/watch?v=xMGhA5v4vxk)<br />
-[How to create a simple console application in Visual studio 2015](https://www.youtube.com/watch?v=6siQm1sIu5g) <br />
 [How to download and install Visual Studio 2017(coming soon)]()<br />
 [How to create a simple console application in Visual studio 2017(coming soon)]() <br />
 
