@@ -1,6 +1,6 @@
-# IPC144 STT and SXX in-class notes and material 
+# IPC144 SNN and SQQ in-class notes and material 
 
-## IPC144 Online Weekly Q & A Session (Thursdays at 10 PM)
+## IPC144 Online Weekly Q & A Session (To Be Announced)
 NOTES: <br />
 - Please have a headset or earbuds connected to your computer to prevent voice feedback. <br />
 - When prompted "Listen only or Microphone" please choose "Microphone" so you can take part in discussions. <br />
