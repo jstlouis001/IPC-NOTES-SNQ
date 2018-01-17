@@ -54,13 +54,14 @@ If you know how to do this in any other editors or IDEs, please email me the res
 
 
 ## Fardad's Schedule 
-
 <table style="background-color: White; width: 608px;"
 bordercolorlight="#72D8D8" bordercolordark="#2D9F9F" border="1"
 bordercolor="#38c7c7" cellpadding="0" cellspacing="0">
+<tbody>
 <tr>
 <td align="center" valign="middle" width="18">P</td>
-<td align="center" valign="middle" width="45">Strt<br>End</td>
+<td align="center" valign="middle" width="45">Strt<br>
+End</td>
 <td align="center" valign="middle" width="101">Monday</td>
 <td align="center" valign="middle" width="109">Tuesday</td>
 <td align="center" valign="middle" width="102">Wednesday</td>
@@ -69,7 +70,8 @@ bordercolor="#38c7c7" cellpadding="0" cellspacing="0">
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">1</td>
-<td align="center" valign="middle" width="45">08:00<br>08:50</td>
+<td align="center" valign="middle" width="45">08:00<br>
+08:50</td>
 <td align="center" bgcolor="White" width="101">&nbsp;</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" width="102">&nbsp;</td>
@@ -78,7 +80,8 @@ bordercolor="#38c7c7" cellpadding="0" cellspacing="0">
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">2</td>
-<td align="center" valign="middle" width="45">08:55<br>09:45</td>
+<td align="center" valign="middle" width="45">08:55<br>
+09:45</td>
 <td align="center" bgcolor="#ffffff" width="101">&nbsp;</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" width="102">&nbsp;</td>
@@ -87,47 +90,77 @@ bordercolor="#38c7c7" cellpadding="0" cellspacing="0">
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">3</td>
-<td align="center" valign="middle" width="45">09:50<br>10:40</td>
-<td style="background-color: white;" align="center" bgcolor="#33ff33">&nbsp;</td>
+<td align="center" valign="middle" width="45">09:50<br>
+10:40</td>
+<td style="background-color: white;" align="center"
+bgcolor="#33ff33">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" width="109">&nbsp;</td>
-<td style="width: 102px; text-align: center; background-color: rgb(51, 204, 255);">IPC144STT</td>
+<td
+style="width: 102px; text-align: center; background-color: white;"><br>
+</td>
 <td align="center">&nbsp;</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 </tr>
 <tr>
 <td align="center" height="38" valign="middle" width="18">4</td>
-<td align="center" height="38" valign="middle" width="45">10:45<br>11:35</td>
-<td style="background-color: white;" align="center"bgcolor="#33ff33">&nbsp;</td>
+<td align="center" height="38" valign="middle" width="45">10:45<br>
+11:35</td>
+<td style="background-color: white;" align="center"
+bgcolor="#33ff33">&nbsp;</td>
 <td align="center" valign="middle" width="109">&nbsp;</td>
-<td style="width: 102px; text-align: center; background-color: rgb(51, 204, 255);">S2119</td>
+<td
+style="width: 102px; text-align: center; background-color: white;"><br>
+</td>
 <td align="center">&nbsp;</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">5</td>
-<td align="center" valign="middle" width="45">11:40<br>12:30</td>
-<td style="width: 101px; text-align: center; background-color: rgb(51, 255, 51);">Office<br>DB1037</td>
-<td style="text-align: center; background-color: rgb(51, 255, 51);">Office<br>DB1037</td>
-<td style="background-color: yellow;" align="center" bgcolor="#ffffff" width="102">IPC144SXX</td>
+<td align="center" valign="middle" width="45">11:40<br>
+12:30</td>
+<td
+style="width: 101px; text-align: center; background-color: rgb(51, 255, 51);">Office
+DB1037<br>
+</td>
+<td
+style="text-align: center; background-color: rgb(51, 255, 51);">Office
+DB1037<br>
+</td>
+<td style="background-color: white;" align="center"
+bgcolor="#ffffff" width="102"><br>
+</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" width="108">&nbsp;</td>
 </tr>
 <tr>
 <td align="center" height="28" valign="middle" width="18">6</td>
-<td align="center" height="28" valign="middle" width="45">12:35<br>13:25</td>
-<td style="background-color: white;" align="center" bgcolor="#00ffff" width="101">&nbsp;</td>
-<td align="center">&nbsp;</td>
-<td style="background-color: yellow;" align="center" bgcolor="#ffffff" valign="middle" width="102">DB2110</td>
+<td align="center" height="28" valign="middle" width="45">12:35<br>
+13:25</td>
+<td style="background-color: white;" align="center"
+bgcolor="#00ffff" width="101"><br>
+</td>
+<td align="center"><br>
+</td>
+<td style="background-color: white;" align="center"
+bgcolor="#ffffff" valign="middle" width="102"><br>
+</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" valign="middle" width="108">&nbsp;</td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">7</td>
-<td align="center" valign="middle" width="45">13:30<br>14:20</td>
-<td style="width: 101px; text-align: center; background-color: rgb(51, 204, 255);">IPC144STT</td>
-<td style="background-color: yellow;" align="center" bgcolor="#ffffff" width="109">IPC144SXX</td>
-<td align="center" bgcolor="#ffffff">&nbsp;</td>
-<td align="center" bgcolor="#ffffff">&nbsp;</td>
+<td align="center" valign="middle" width="45">13:30<br>
+14:20</td>
+<td
+style="width: 101px; text-align: center; background-color: rgb(51, 204, 255);">IPC144SNN<br>
+</td>
+<td style="background-color: yellow;" align="center"
+bgcolor="#ffffff" width="109">IPC144SQQ<br>
+</td>
+<td style="background-color: rgb(51, 204, 255);" align="center"
+bgcolor="#ffffff">IPC144SNN&nbsp;</td>
+<td style="background-color: yellow;" align="center"
+bgcolor="#ffffff">&nbsp;IPC144SQQ</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 </tr>
 <tr>
@@ -135,17 +168,22 @@ bordercolor="#38c7c7" cellpadding="0" cellspacing="0">
 <td align="center" valign="middle" width="45">14:25<br>
 15:15</td>
 <td
-style="width: 101px; vertical-align: middle; text-align: center; background-color: rgb(51, 204, 255);">DB4039<br>
+style="width: 101px; vertical-align: middle; text-align: center; background-color: rgb(51, 204, 255);">DB2107<br>
 </td>
-<td style="background-color: yellow;" align="center" bgcolor="#ffffff" valign="middle" width="109">S2157</td>
-<td align="center" bgcolor="#ffffff">&nbsp;</td>
-<td align="center">&nbsp;</td>
+<td style="background-color: yellow;" align="center"
+bgcolor="#ffffff" valign="middle" width="109">DB4048<br>
+</td>
+<td style="background-color: rgb(51, 204, 255);" align="center"
+bgcolor="#ffffff">&nbsp;S2159</td>
+<td style="background-color: yellow;" align="center">&nbsp;S2156</td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">9</td>
-<td align="center" valign="middle" width="45">15:20<br>16:10</td>
+<td align="center" valign="middle" width="45">15:20<br>
+16:10</td>
 <td style="text-align: center; background-color: white;">
+<br>
 </td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
@@ -154,12 +192,16 @@ style="width: 101px; vertical-align: middle; text-align: center; background-colo
 </tr>
 <tr>
 <td align="center" height="37" valign="middle" width="18">10</td>
-<td align="center" height="37" valign="middle" width="45">16:15<br>17:05</td>
-<td style="width: 101px; vertical-align: middle; text-align: center; background-color: white;">&nbsp;</td>
-<td style="width: 109px; vertical-align: middle; height: 37px; text-align: center; background-color: white;">&nbsp;</td>
+<td align="center" height="37" valign="middle" width="45">16:15<br>
+17:05</td>
+<td
+style="width: 101px; vertical-align: middle; text-align: center; background-color: white;">&nbsp;</td>
+<td
+style="width: 109px; vertical-align: middle; height: 37px; text-align: center; background-color: white;">&nbsp;</td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
 <td align="center">&nbsp;</td>
-<td align="center" bgcolor="#ffffff" valign="middle" width="108">&nbsp;</td></tr>
+<td align="center" bgcolor="#ffffff" valign="middle" width="108">&nbsp;</td>
+</tr>
 <tr>
 <td align="center" height="37" valign="middle">11</td>
 <td align="center" height="37" valign="middle">17:10<br>
@@ -170,4 +212,6 @@ style="width: 101px; vertical-align: middle; text-align: center; background-colo
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" valign="middle">&nbsp;</td>
 </tr>
+</tbody>
 </table>
+
