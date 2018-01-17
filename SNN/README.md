@@ -1,6 +1,6 @@
 # IPC144 SNN 
-## IPC144SNN Online Weekly Q & A Session (To Be Announced)
-NOTES: <br />
+## IPC144SNN Online Session instructions
+
 - Please have a headset or earbuds connected to your computer to prevent voice feedback. <br />
 - Login to my seneca and click on your subject <br />
 - Click on Tools <br />
