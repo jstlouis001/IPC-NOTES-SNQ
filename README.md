@@ -6,19 +6,30 @@ NOTES: <br />
 - When prompted "Listen only or Microphone" please choose "Microphone" so you can take part in discussions. <br />
 - Please use you real name when connected.<br />
 - The link will be activated shortly before the start of the session:<br /><br />
-[Join Session](https://connect.rna1.blindsidenetworks.com/invite/to?c=oKP4EXYrsAJ4yeEscFncjzkxREZx6v3K8FLcTf65a8k&m=c146d98cc72d607614f4fc3733eebe95df845e1f&t=1513306662318&u=senecacollege) <br /> <br />
+[Join Session](https://github.com/Seneca-144100/IPC-NOTES-SNQ/blob/master/README.md) <br /> <br />
 Recorded Sessions: <br />
-[IPC144 - Q&A BBB review Session 1 (Nov 30)](https://recordings.rna1.blindsidenetworks.com/senecacollege/6d6f3369d4fbdbfae695d2f530baeea8c3d6197e-1512096928802/capture/)<br />
 
-### IPC144 links ###
+
+## IPC144 links 
 [Subject outline](https://ict.senecacollege.ca/course/ipc144)<br />
 [Subject timeline](https://scs.senecac.on.ca/~ipc144/pages/timeline.html)<br />
 [ONline verions of the notes sold in the bookstore](https://scs.senecac.on.ca/~ipc144/pages/content/index.html)<br />
 [Workshops](https://github.com/Seneca-144100/IPC-Workshops)<br />
-### Quiz Reflection
+## Quiz Reflection 
 In all the at-home part of your workshops, add a section to reflect.txt file called **Quiz X Reflection**. Replace the **X** with the number of the last quiz that you received and list the numbers of all questions that you answered incorrectly.
 Then for each incorrectly answered question write your mistake and the correct answer to that question. If you have missed the last quiz, then write all the questions and their answers.<br />
 By adding this to your workshop reflection, you can reclaim half or more of the lost marks in your quiz.
+
+## Citation and Sources 
+In all the at-home part of your workshops, also Project and assignment deliverables, a file called **sources.txt** must be present. This file will be submitted with your work automatically.<br />   
+You are to write either of the following statements in the file "sources.txt":<br /><br />
+"I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments. 
+ Your name, your student number"<br /><br />
+OR:<br /><br />
+Write exactly which part of the code of the workshops or the assignment are given to you as help and who gave it to you or which source you received it from. <br />
+You need to mention the workshop name or assignment name and also the file name and the parts in which you received the code for help. 
+Finally add your name and student number at the bottum.<br />
+By doing this you will only lose the mark for the parts you got help for, and the person helping you will be clear of any wrong doing. 
 
 ## Visual Studio
 [How to download and install Visual Studio 2015](https://www.youtube.com/watch?v=xMGhA5v4vxk)<br />
@@ -39,28 +50,8 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=mSMGq3fTF-U) <br />
 
 ## Lecture Videos
-### [Play list](https://www.youtube.com/playlist?list=PLxB4x6RkylovO0C-b5-sbg_ZlX6ADIwmT) 
-[STT- Week 1 and half of 2](https://www.youtube.com/watch?v=zgAC5xGx8kA) <br />
-[SXX- Week 1 and half of 2](https://www.youtube.com/watch?v=JwbsjHK_uso) <br />
-[STT- Week 2 - Expressions](https://www.youtube.com/watch?v=t5StFsvteDA) <br />
-[SXX- Week 2 - Expressions](https://www.youtube.com/watch?v=yCJVHRrksVo) <br />
-[STX- Workshop 1](https://www.youtube.com/watch?v=C0HbqT_QW4I) <br />
-[STT- Week 3 - Logic, Loops, if intro](https://www.youtube.com/watch?v=fvy1ORDPUdw) <br />
-[STT- Week 3 - Logic, Loops, if intro](https://www.youtube.com/watch?v=2IpCBv-nUOM) <br />
-[STX- Week 3 - Logic, if; Selection, switch, Conditional (Online Lecture Video)](https://www.youtube.com/watch?v=jUq0Jecls28) <br />
-[STT - Week 4 Arrays](https://www.youtube.com/watch?v=DSJFJUXjx-4) <br />
-[SXX - Week 4 Arrays](https://www.youtube.com/watch?v=eBODYZKU8Mo) <br />
-[STT - Week 5 Parallel Arrays, Structs, intro to functions](https://www.youtube.com/watch?v=dukrVPwutco) <br />
-[SXX - Week 5 Parallel Arrays, Structs, intro to functions](https://www.youtube.com/watch?v=Ltg6zmNw-Wk) <br />
-[STT - Week 5 fool proof integer entry](https://www.youtube.com/watch?v=kALw28EXxDI) <br />
-[SXX - Week 5 fool proof integer entry](https://www.youtube.com/watch?v=AfgfCKQX8bU) <br />
-[STX - Week 6 Arrays, Structures and Functions Review](https://www.youtube.com/watch?v=YpYm2OyDP1Q) <br />
-[SXX - IPC144 - SXX Review after Strike](https://www.youtube.com/watch?v=l0lsuEq_tV4) <br />
-[STT - IPC144 - SXX Review after Strike](https://www.youtube.com/watch?v=L3JhUz_Xgjg) <br />
-[STX - IPC144 - Week 8 Arrays review, intro to pointers](https://www.youtube.com/watch?v=1Eaojo6rexE)<br />
-[STT - IPC144 - Week 9 - pointers and structures](https://www.youtube.com/watch?v=nA7EKEn7emg)<br />
-[SXX - IPC144 - Week 9 - pointers and structures](https://www.youtube.com/watch?v=dsFExWAJhvo)<br />
-[STX = IPC144 - Q&A BBB review Session 1](https://recordings.rna1.blindsidenetworks.com/senecacollege/6d6f3369d4fbdbfae695d2f530baeea8c3d6197e-1512096928802/capture/)<br />
+
+
 
 ## Fardad's Schedule 
 
