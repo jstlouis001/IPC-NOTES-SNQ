@@ -1,7 +1,7 @@
-# IPC144 SNN and SQQ in-class notes and material 
+# IPC144SQQ
 
-## IPC144 Online Weekly Q & A Session (To Be Announced)
-NOTES: <br />
+## IPC144SQQ Online Session instructions
+
 - Please have a headset or earbuds connected to your computer to prevent voice feedback. <br />
 - Login to my seneca and click on your subject <br />
 - Click on Tools <br />
