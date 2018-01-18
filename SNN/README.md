@@ -11,6 +11,6 @@
 
 
 ## Lecture Videos
-
+[Week 1 - Jan 17th, welcome, Computers, Information and compilers](https://www.youtube.com/watch?v=g_5zFK7g6ZI) <br />
 
 
