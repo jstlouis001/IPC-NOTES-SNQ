@@ -44,8 +44,8 @@ If you know how to do this in any other editors or IDEs, please email me the res
 
 ## Git
 [Pro Git Book](https://git-scm.com/book): This is and online complete reference to git and its commands (command line). I recommend reading chapter 1 and 2 and glancing chapter 6. This will be more than enough to get your through atleast first three semesters of college, if not all. <br />
-[Installing git on windows 10](https://www.youtube.com/watch?v=tc3Aoi5Z1FE) <br />
-[Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=mSMGq3fTF-U) <br />
+[Installing git on windows 10 (coming soon)]()  <br />
+[Installing tortoise git (a git integration with windows file explorer)(coming soon)]() <br />
 
 ## Lecture Videos
 
