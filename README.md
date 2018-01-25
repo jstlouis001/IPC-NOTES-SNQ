@@ -120,12 +120,10 @@ style="width: 102px; text-align: center; background-color: white;"><br>
 style="width: 101px; text-align: center; background-color: rgb(51, 255, 51);">Office
 DB1037<br>
 </td>
-<td
-style="text-align: center; background-color: rgb(51, 255, 51);">Office
-DB1037<br>
+<td style="text-align: center;"><br>
 </td>
-<td style="background-color: white;" align="center"
-bgcolor="#ffffff" width="102"><br>
+<td style="background-color: rgb(51, 255, 51);" align="center"
+bgcolor="#ffffff" width="102">Office DB1037
 </td>
 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 <td align="center" bgcolor="#ffffff" width="108">&nbsp;</td>
@@ -180,8 +178,7 @@ bgcolor="#ffffff">&nbsp;S2159</td>
 <td align="center" valign="middle" width="18">9</td>
 <td align="center" valign="middle" width="45">15:20<br>
 16:10</td>
-<td style="text-align: center; background-color: white;">
-<br>
+<td style="text-align: center; background-color: white;"> <br>
 </td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
 <td style="text-align: center; background-color: white;">&nbsp;</td>
