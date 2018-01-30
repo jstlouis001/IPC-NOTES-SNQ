@@ -12,6 +12,7 @@
 
 
 ## Lecture Videos
-
+[Week 1 - Welcome, Computers, information and compilers](https://www.youtube.com/watch?v=81jp_4qNX1w) <br />
+[Week 2 - Types, Calculations, Expressions](https://www.youtube.com/watch?v=-R1qzFXkGSo) <br />
 
 
