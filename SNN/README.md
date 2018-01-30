@@ -11,6 +11,8 @@
 
 
 ## Lecture Videos
-[Week 1 - Jan 17th, welcome, Computers, Information and compilers](https://www.youtube.com/watch?v=g_5zFK7g6ZI) <br />
+[Week 1 - welcome, Computers, Information and compilers](https://www.youtube.com/watch?v=g_5zFK7g6ZI) <br />
+[Week 2 -  Types, Calculations Expressions](https://www.youtube.com/watch?v=X1mxggb2Fho) <br />
+[Week 2 -  Continued](https://www.youtube.com/watch?v=Db_B4x1y1hY) <br />
 
 
