@@ -12,7 +12,7 @@
 
 ## Lecture Videos
 [Week 1 - welcome, Computers, Information and compilers](https://www.youtube.com/watch?v=g_5zFK7g6ZI) <br />
-[Week 2 -  Types, Calculations Expressions](https://www.youtube.com/watch?v=X1mxggb2Fho) <br />
-[Week 2 -  Continued](https://www.youtube.com/watch?v=Db_B4x1y1hY) <br />
+Week 2 -  Types, Calculations Expressions: [Video 1](https://www.youtube.com/watch?v=X1mxggb2Fho) [Video 2](https://www.youtube.com/watch?v=Db_B4x1y1hY) <br />
 [Week 3 - Logic](https://www.youtube.com/watch?v=NXV7NV1rU5s) <br />
+Week 4 - Arrays, Funcions, Strings [Video 1]() [Video 2]() <br />
 
