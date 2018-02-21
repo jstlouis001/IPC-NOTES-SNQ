@@ -16,3 +16,4 @@
 [Week 2 - Types, Calculations, Expressions](https://www.youtube.com/watch?v=-R1qzFXkGSo) <br />
 Week 3 - Logic [Video 1](https://www.youtube.com/watch?v=o0MC3PBuxaw) [Video 2](https://www.youtube.com/watch?v=CvEy9QCcQU4) <br />
 Week 4 - Arrays, Funcions, Strings [Video 1](https://www.youtube.com/watch?v=y2e8Vr-fHcQ) [Video 2](https://www.youtube.com/watch?v=rp8vXIrwVNg) <br />
+Week 5 - [Parallel arrays, Structures, functions](https://youtu.be/Dl5NmKPUQVw) <br />
