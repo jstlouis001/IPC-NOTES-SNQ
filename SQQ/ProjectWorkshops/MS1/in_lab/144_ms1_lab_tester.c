@@ -92,3 +92,110 @@ int main(void) {
   printf("End IPC144 ms1 in lab test\n");
   return 0;
 }
+
+/*
+output:
+IPC144 ms1 in lab test
+Starting tester!
+Hit <ENTER> to continue...
+
+Testing yes(), Enter the followig:
+abc<ENTER>
+y<ENTER>
+abc
+Only (y) or (n) are acceptable, redo: y
+Passed!
+Enter: Y<ENTER>
+Y
+Passed!
+Enter: n<ENTER>
+n
+Passed!
+Enter: N<ENTER>
+N
+Passed!
+Testing scanInt(), Enter the following:
+abc<ENTER>
+1abc<ENTER>
+1<ENTER>
+
+abc
+Invalid integer try again: 1abc
+Invalid integer try again: 1
+Entered value is: 1
+
+The output should be exactly as follows:
+
+abc
+Invalid integer try again: 1abc
+Invalid integer try again: 1
+Entered value is : 1
+
+End scanInt() test
+
+Tesing getint(), Enter the following:
+a<ENTER>
+1<ENTER>
+3<ENTER>
+2<ENTER>
+
+> a
+Invalid integer try again: 1
+Bad 2 (2<= value <=2): 3
+Bad 2 (2<= value <=2): 2
+Entered value is: 2
+
+The output should be exactly as follows:
+
+> a
+Invalid integer try again: 1
+Bad 2 (2 <= value <= 2) : 3
+Bad 2 (2 <= value <= 2) : 2
+Entered value is : 2
+
+End getInt() test
+
+Testing scanDouble(), Enter the following:
+abc<ENTER>
+1abc<ENTER>
+1<ENTER>
+
+abc
+Invalid number try again: 1abc
+Invalid number try again: 1
+Entered value is: 1.0
+
+The output should be exactly as follows:
+
+abc
+Invalid number try again: 1abc
+Invalid number try again: 1
+Entered value is : 1.0
+
+End scanDouble() test
+
+Tesing getDouble(), Enter the following:
+a<ENTER>
+1<ENTER>
+6<ENTER>
+4<ENTER>
+
+> a
+Invalid number try again: 1
+Bad 4 (3.0<= value <=5.0): 6
+Bad 4 (3.0<= value <=5.0): 4
+Entered value is: 4.0
+
+The output should be exactly as follows:
+
+> a
+Invalid number try again: 1
+Bad 4 (3.0 <= value <= 5.0) : 6
+Bad 4 (3.0 <= value <= 3.0) : 4
+Entered value is : 4.0
+
+End getDouble() test
+
+End IPC144 ms1 in lab test
+
+*/
